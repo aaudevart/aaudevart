@@ -28,15 +28,15 @@ Feel free to discover my story on:
 <br> <img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781800208865-original_98.jpeg" width="150"/>
 <br/>
 
-👩🏻‍&nbsp;&nbsp;💻&nbsp;  **Google Developer Expert in Machine Learning**: The Google Developer Expert Program recognizes and rewards outstanding developers with advanced technical expertise in specific areas like Machine Learning.
+👩🏻‍&nbsp;💻&nbsp;  **Google Developer Expert in Machine Learning** since 2019: The Google Developer Expert Program recognizes and rewards outstanding developers with advanced technical expertise in specific areas like Machine Learning.<br/>
+<img src="https://www.datactik.com/images/made_by_gde.png" alt="GDE" width="75">
+<br/>
+
+🗞&nbsp; L’Usine Nouvelle has ranked me as one of the [*100 French in AI*](https://www.usinenouvelle.com/article/l-enthousiasme-des-rencontres-alexia-audevart-presidente-du-meetup-toulouse-data-science-et-a-la-tete-de-datactik.N648553).
 
 <br/>
 
-🗞&nbsp; L’Usine Nouvelle has ranked me as one of the *100 French in AI*.
-
-<br/>
-
-🤝 &nbsp; **President of the Toulouse Data Science** meetup from 2017 to 2020, one of the most important 'data' associations in France, meeting at monthly free events, data heroes exchange and share about massive data enhancement and predictive analysis.
+🤝 &nbsp; **President of the Toulouse Data Science** meetup from 2016 to 2020, one of the most important 'data' associations in France, meeting at monthly free events, data heroes exchange and share about massive data enhancement and predictive analysis.
 
 <br/>
 
