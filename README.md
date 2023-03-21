@@ -5,7 +5,7 @@ I'm an Expert in machine learning and the founder of datactik.
 Feel free to discover my story on:
 - <img src="https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/1805/2020/12/LinkedIn-Icon--300x300.png" alt="LinkedIn" width="25" height="25" /> [LinkedIn](https://www.linkedin.com/in/alexia-audevart-450b8a1/)
 - <img src="https://www.soroptimistinternational.org/wp-content/uploads/2020/03/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.jpg" height="25" /> [Twitter](https://twitter.com/aaudevart)
-- <img src="https://www.datactik.com/favicon.ico" width="25" height="25" /> [datactik](https://www.datactik.com)
+- <img src="https://www.datactik.com/github/favicon.ico" width="25" height="25" /> [datactik](https://www.datactik.com)
 
 <br/>
 
@@ -23,13 +23,14 @@ Feel free to discover my story on:
 
 🤖 &nbsp; 🧠&nbsp;  **Co-author** of :
 - the book "[Apprendre Demain - Quand Intelligence Artificielle et Neurosciences révolutionnent l'apprentissage](www.apprendre-demain.fr)" (Dunod - Sept 2019)
-<br> <img src="https://www.datactik.com/images/book-cover.png" width="150"/>
+<br> <img src="https://www.datactik.com/github/book-cover.png" width="150"/>
 - the book "[Machine Learning Using TensorFlow Cookbook](https://www.packtpub.com/data/machine-learning-using-tensorflow-cookbook)" (Packt - Feb 2021)
-<br> <img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781800208865-original_98.jpeg" width="150"/>
+<br> <img src="https://www.datactik.com/github/book-packt.png" width="150"/>
 <br/>
 
 👩🏻‍&nbsp;💻&nbsp;  **Google Developer Expert in Machine Learning** since 2019: The Google Developer Expert Program recognizes and rewards outstanding developers with advanced technical expertise in specific areas like Machine Learning.<br/>
-<img src="https://www.datactik.com/images/made_by_gde.png" alt="GDE" width="75">
+<!--img src="https://www.datactik.com/github/made_by_gde.png" alt="GDE" width="75"-->
+<img src="https://www.datactik.com/github/experts-digital-badge-logos-2023_machinelearning.png" alt="ML GDE" width="150">
 <br/>
 
 🗞&nbsp; L’Usine Nouvelle has ranked me as one of the [*100 French in AI*](https://www.usinenouvelle.com/article/l-enthousiasme-des-rencontres-alexia-audevart-presidente-du-meetup-toulouse-data-science-et-a-la-tete-de-datactik.N648553).
@@ -41,8 +42,8 @@ Feel free to discover my story on:
 <br/>
 
 👷‍♀&nbsp;  **Technical Skills**
-- Artificial Intelligence: Machine Learning (Scikit-Learn), Deep Learning (Tensorflow, Keras)
-- Data Science / Big Data: Hadoop (Cloudera, HortonWorks, MapR), Data Processing (Spark, Impala, Hive, Drill), Log Monitoring (Splunk, Elastic), Data Visualisation (Spotfire, Tableau)
+- Artificial Intelligence: Machine Learning (Scikit-Learn), Deep Learning (Tensorflow, Keras), Computer Vision (OpenCV, KerasCV, HuggingFace, ...), NLP (Spacy, NLTK, Gensim, KerasNLP, HuggingFace, ...), Time Series
+- Data Science / Big Data: Hadoop (Cloudera, HortonWorks, MapR), Data Processing (Spark, Impala, Hive, Drill), Log Monitoring (Splunk, Elastic), Data Visualisation (PowerBI, Tableau)
 - Cloud: GCP, AWS, Azure
 - Language: Java, Python
 
