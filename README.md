@@ -43,6 +43,7 @@ Feel free to discover my story on:
 
 👷‍♀&nbsp;  **Technical Skills**
 - Artificial Intelligence: Machine Learning (Scikit-Learn), Deep Learning (Tensorflow, Keras), Computer Vision (OpenCV, KerasCV, HuggingFace, ...), NLP (Spacy, NLTK, Gensim, KerasNLP, HuggingFace, ...), Time Series
+- Generative Artificial Intelligence :  LLM, RAG, AgenticAI (LangChain, LangGraph, etc.)
 - Data Science / Big Data: Hadoop (Cloudera, HortonWorks, MapR), Data Processing (Spark, Impala, Hive, Drill), Log Monitoring (Splunk, Elastic), Data Visualisation (PowerBI, Tableau)
 - Cloud: GCP, AWS, Azure
 - Language: Java, Python
