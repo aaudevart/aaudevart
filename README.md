@@ -15,7 +15,7 @@ Feel free to discover my story on:
 <br/>
 
 🎓&nbsp; 📚&nbsp;  🎤&nbsp;  My valuable skills have allowed me to deliver **trainings** and participate in different events as a **speaker**.
-- Here, my <img src="https://thomaswinters.be/static/ca1f0e44f8db7b1663da1495ad81d6a7/6e60c/tedx.png" alt="TedX" width="25" height="25" /> [TedX](https://www.youtube.com/watch?v=TXt6cyogwEY&ab_channel=TEDxTalks) talk about Ai and neuroscience 
+- Here, my <img src="https://innovationbuilders.org/wp-content/uploads/2014/09/3-ted-x-logo.png" alt="TedX" width="40" height="25" /> [TedX](https://www.youtube.com/watch?v=TXt6cyogwEY&ab_channel=TEDxTalks) talk about AI and neuroscience 
 - More informations on the [trainings](https://www.datactik.com/?lang=en)
 
 <br/>
