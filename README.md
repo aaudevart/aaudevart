@@ -4,7 +4,6 @@ I'm an Expert in machine learning and the founder of datactik.
 
 Feel free to discover my story on:
 - <img src="https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/1805/2020/12/LinkedIn-Icon--300x300.png" alt="LinkedIn" width="25" height="25" /> [LinkedIn](https://www.linkedin.com/in/alexia-audevart-450b8a1/)
-- <img src="https://www.soroptimistinternational.org/wp-content/uploads/2020/03/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.jpg" height="25" /> [Twitter](https://twitter.com/aaudevart)
 - <img src="https://www.datactik.com/github/favicon.ico" width="25" height="25" /> [datactik](https://www.datactik.com)
 
 <br/>
@@ -16,7 +15,7 @@ Feel free to discover my story on:
 <br/>
 
 🎓&nbsp; 📚&nbsp;  🎤&nbsp;  My valuable skills have allowed me to deliver **trainings** and participate in different events as a **speaker**.
-- Here, my <img src="https://www.tedxnarbonne.fr/wp-content/uploads/2019/10/LOGO-TED-CARRE.png" alt="TedX" width="25" height="25" /> [TedX](https://www.youtube.com/watch?v=TXt6cyogwEY&ab_channel=TEDxTalks) talk about Ai and neuroscience 
+- Here, my <img src="https://thomaswinters.be/static/ca1f0e44f8db7b1663da1495ad81d6a7/6e60c/tedx.png" alt="TedX" width="25" height="25" /> [TedX](https://www.youtube.com/watch?v=TXt6cyogwEY&ab_channel=TEDxTalks) talk about Ai and neuroscience 
 - More informations on the [trainings](https://www.datactik.com/?lang=en)
 
 <br/>
